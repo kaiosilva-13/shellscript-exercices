@@ -4,7 +4,7 @@
 chmod +x nome_do_arquivo.sh
 ```
 
-### Execute o script
+### Para executar o script
 
 ```sh
 ./nome_do_arquivo.sh
